@@ -1,0 +1,2 @@
+https://public.tableau.com/profile/paul.musco#!/vizhome/ironhack_03_lab-tableau-data-visualization/3
+BONUS - https://public.tableau.com/profile/paul.musco#!/vizhome/ironhack_04_bi-tableau03_lab-tableau-data-visualizationBONUS/WorldGDPPerCapital
